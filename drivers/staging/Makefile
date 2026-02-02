@@ -42,4 +42,4 @@ obj-$(CONFIG_FIELDBUS_DEV)     += fieldbus/
 obj-$(CONFIG_QLGE)		+= qlge/
 obj-$(CONFIG_WFX)		+= wfx/
 obj-$(CONFIG_EXTEND_RECLAIM)	+= extend_reclaim/
-obj-$(CONFIG_BINDER_PRIO) += binder_prio/
+# obj-$(CONFIG_BINDER_PRIO) += binder_prio/
